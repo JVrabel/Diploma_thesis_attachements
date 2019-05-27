@@ -9,3 +9,9 @@ Download dataset:
 Info about dataset:
 
 [General info](https://contest.emslibs.com/page/data)
+
+Implementation of methods used for dimension reduction:
+
+[PCA (R)](https://contest.emslibs.com/page/data)
+
+[RBM (Python)](https://contest.emslibs.com/page/data)
